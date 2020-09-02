@@ -1,0 +1,7 @@
+name: DPCPlugin
+version: @version@
+main: xyz.n7mn.dev.papermc.dpcpluginbypaper.DPCPluginByPaper
+api-version: 1.16
+authors: [ n3m_ ]
+description: a
+website: https://n7mn.xyz/
